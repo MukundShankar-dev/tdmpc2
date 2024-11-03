@@ -62,10 +62,10 @@ dropout: 0.01
 simnorm_dim: 8
 
 # logging
-wandb_project: ???
+wandb_project: 698dacc615d441779cbbdadc3c676dd8a5642fba
 wandb_entity: ???
 wandb_silent: false
-disable_wandb: true
+disable_wandb: false
 save_csv: true
 
 # misc
